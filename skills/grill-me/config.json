@@ -1,0 +1,9 @@
+{
+  "name": "grill-me",
+  "version": "1.0.0",
+  "description": "Ask probing questions until 95% confident about what needs to be done",
+  "user-invocable": true,
+  "permissions": [],
+  "author": "Red Hat AI Labs",
+  "repository": "https://github.com/odh-ide/ai-labs"
+}

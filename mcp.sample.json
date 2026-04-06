@@ -1,0 +1,23 @@
+{
+    "mcpServers": {
+        "atlassian": {
+            "type": "http",
+            "url": "https://mcp.atlassian.com/v1/mcp"
+        },
+        "github": {
+            "url": "https://api.githubcopilot.com/mcp/",
+            "type": "http",
+            "headers": {
+                "Authorization": "Bearer <GITHUB_TOKEN>"
+            }
+        },
+        "chrome-devtools": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "chrome-devtools-mcp@latest",
+                "--auto-connect"
+            ]
+        }
+    }
+}

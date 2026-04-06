@@ -1,0 +1,12 @@
+{
+  "name": "package-skills",
+  "version": "1.0.0",
+  "description": "Package skills into zip files for distribution",
+  "user-invocable": true,
+  "permissions": [
+    "Bash(zip:*)",
+    "Bash(ls:*)"
+  ],
+  "author": "Red Hat AI Labs",
+  "repository": "https://github.com/odh-ide/ai-labs"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "setup-mcp",
+  "version": "1.0.0",
+  "description": "Configure .mcp.json from mcp.sample.json by asking the user for required values and verifying each server",
+  "user-invocable": true,
+  "permissions": [
+    "Bash(curl:*)",
+    "Bash(which:*)",
+    "Bash(node:*)",
+    "Bash(npx:*)"
+  ],
+  "author": "Red Hat AI Labs",
+  "repository": "https://github.com/odh-ide/ai-labs"
+}

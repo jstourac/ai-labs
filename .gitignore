@@ -1,0 +1,45 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+*.secret
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Node modules (if using JavaScript tools)
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Claude
+.mcp.json
+settings.local.json
+.claude

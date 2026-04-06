@@ -1,0 +1,9 @@
+{
+  "name": "commit",
+  "version": "1.0.0",
+  "description": "Generate and apply a Conventional Commit message based on staged or all changes",
+  "user-invocable": true,
+  "permissions": [],
+  "author": "Red Hat AI Labs",
+  "repository": "https://github.com/odh-ide/ai-labs"
+}

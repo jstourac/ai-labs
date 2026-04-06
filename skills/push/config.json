@@ -1,0 +1,9 @@
+{
+  "name": "push",
+  "version": "1.0.0",
+  "description": "Rebase, squash all branch commits into one Conventional Commit, and push to the remote",
+  "user-invocable": true,
+  "permissions": [],
+  "author": "Red Hat AI Labs",
+  "repository": "https://github.com/odh-ide/ai-labs"
+}

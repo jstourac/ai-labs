@@ -1,4 +1,19 @@
-# OpenDataHub AI Labs Repo
+# OpenDataHub AI Labs
 
-## Important Links
-* https://vercel.com/changelog/introducing-skills-the-open-agent-skills-ecosystem
+Custom skills, commands, and prompts for AI-assisted development workflows in OpenDataHub and Red Hat AI Labs projects.
+
+## Install Skills
+
+Install all skills:
+
+```bash
+npx skills add odh-ide/ai-labs
+```
+
+Install specific skills:
+
+```bash
+npx skills add odh-ide/ai-labs --skill cve-triage --skill grill-me
+```
+
+See [AGENTS.md](AGENTS.md) for full documentation on available skills, commands, and how to contribute.
